@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  border: 3px solid #424242;
+}
+
+td {
+  border: 1px solid #263238;
+}
+
+#row-01 > td {
+  padding: 15px;
+  text-align: center;
+}
+
+#row-02 > td {
+  padding: 15px;
+}
+
+#row-03 > td {
+  padding: 15px;
+}
+
+#row-04 > td {
+  padding: 15px;
+}
+
+#row-05 > td {
+  padding: 15px;
+}
+
+#row-06 > td {
+  padding: 15px;
+}
+
+#row-07 > td {
+  padding: 15px;
+}
+
+
