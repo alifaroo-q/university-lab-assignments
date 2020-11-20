@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab_Assignment_04"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_Assignment_04">
+				<Option output="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug/Lab_Assignment_04.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="G:\Programs\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="G:\Programs\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 Lab_Assignment_04"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_Assignment_04/fast">
+				<Option output="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug/Lab_Assignment_04.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="G:\Programs\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="G:\Programs\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="G:\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 Lab_Assignment_04/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alifa\CLionProjects\Lab_Assignment_04\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/dozenCalculator.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/example_07.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/headers.h">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/main.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/task_06.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/task_07.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/windIntensity.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/yearCheack.c">
+			<Option target="Lab_Assignment_04"/>
+		</Unit>
+		<Unit filename="C:/Users/alifa/CLionProjects/Lab_Assignment_04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

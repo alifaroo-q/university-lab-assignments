@@ -1,0 +1,3 @@
+C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug/CMakeFiles/Lab_Assignment_04.dir
+C:/Users/alifa/CLionProjects/Lab_Assignment_04/cmake-build-debug/CMakeFiles/edit_cache.dir
